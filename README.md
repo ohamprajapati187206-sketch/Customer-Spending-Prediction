@@ -1,5 +1,8 @@
 # Customer-Spending-Prediction
 
+### Customer-Spending-Prediction App Link
+https://customer-spending-prediction-mg98rrgu6jqfuzep7jv6j8.streamlit.app/
+
 # MACHINE LEARNING PROJECT TASK
 
 ### Project setup
@@ -83,4 +86,3 @@ Task 6 — Predict for a new customer
     •	A model performance dict with R² score of each model.
     •	A final prediction for the example customer.
     •	A short conclusion identifying the selected model and explaining why it was selected.
-
